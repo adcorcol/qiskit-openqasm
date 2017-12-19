@@ -8,15 +8,15 @@ The latest version is: __2.0__.
 
 ## About this project
 
-On this repository you'll find all the documentation related to the OpenQASM in PDF, including the sources to generate it. Also some useful OpenQASM examples.
+On this repository you'll find all the documentation related to OpenQASM and some useful OpenQASM examples.
 
 ### Language specs
 
-The language documentation is available under the [spec](spec) folder in [LaTex](https://www.latex-project.org/about) language. [Here](spec-human) we provide a human-readable version of it in PDF format.
+The language documentation is available [here](specs/qasm.rst).
 
 ### Examples
 
-The examples can be found under the [examples] folder.
+The examples can be found under the [examples](examples) folder.
 
 They are OpenQASM files, i.e.:
 
